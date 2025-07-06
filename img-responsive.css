@@ -1,0 +1,11 @@
+img{
+  
+  max-inline-size: 100%;
+  height: auto;
+  /* aspect ratio yang memaksa seluruh gambar memiliki dimensi yang sama */
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  background-color: red;
+  width: 550px;
+}
+
